@@ -1,0 +1,18 @@
+{
+  "name": "Casa de praia em Jatobá #1",
+  "description": "Cota #1 da casa de praia em Jatobá",
+  "image": "https://raw.githubusercontent.com/Walanm/nft_images/master/1.png",
+  "dna": "6d1fb6a3591baac21fbcc0ae957fd9e5966f9434",
+  "edition": 1,
+  "date": 1644798436255,
+  "attributes": [
+    {
+      "trait_type": "Piscina",
+      "value": "Sim"
+    },
+    {
+      "trait_type": "Garagem",
+      "value": "2 Carros"
+    }
+  ]
+}
